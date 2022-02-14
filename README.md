@@ -27,7 +27,6 @@ Projects:
                 how to implement triggers, views, functions, and procedures into a
                 database.
                 - This project advanced my teamwork and communication skills. It
-                                                           Student code    17201624
                 developed my research skills as I had to research how to effectively
                 implement my components into the database. It furthered my
                 presentation skills as I had to work on presenting the data
